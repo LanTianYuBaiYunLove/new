@@ -15,6 +15,7 @@
 		C2E985D61DDEEDB800BE3DA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2E985D41DDEEDB800BE3DA5 /* LaunchScreen.storyboard */; };
 		C2E985E11DDEEDB800BE3DA5 /* WangNewsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C2E985E01DDEEDB800BE3DA5 /* WangNewsTests.m */; };
 		C2E985EC1DDEEDB800BE3DA5 /* WangNewsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C2E985EB1DDEEDB800BE3DA5 /* WangNewsUITests.m */; };
+		C2E985FB1DDEF06300BE3DA5 /* dog.m in Sources */ = {isa = PBXBuildFile; fileRef = C2E985FA1DDEF06300BE3DA5 /* dog.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		C2E985E71DDEEDB800BE3DA5 /* WangNewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WangNewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2E985EB1DDEEDB800BE3DA5 /* WangNewsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WangNewsUITests.m; sourceTree = "<group>"; };
 		C2E985ED1DDEEDB800BE3DA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2E985F91DDEF06300BE3DA5 /* dog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dog.h; sourceTree = "<group>"; };
+		C2E985FA1DDEF06300BE3DA5 /* dog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = dog.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +107,8 @@
 				C2E985C91DDEEDB800BE3DA5 /* AppDelegate.h */,
 				C2E985CA1DDEEDB800BE3DA5 /* AppDelegate.m */,
 				C2E985CC1DDEEDB800BE3DA5 /* ViewController.h */,
+				C2E985F91DDEF06300BE3DA5 /* dog.h */,
+				C2E985FA1DDEF06300BE3DA5 /* dog.m */,
 				C2E985CD1DDEEDB800BE3DA5 /* ViewController.m */,
 				C2E985CF1DDEEDB800BE3DA5 /* Main.storyboard */,
 				C2E985D21DDEEDB800BE3DA5 /* Assets.xcassets */,
@@ -272,6 +277,7 @@
 			files = (
 				C2E985CE1DDEEDB800BE3DA5 /* ViewController.m in Sources */,
 				C2E985CB1DDEEDB800BE3DA5 /* AppDelegate.m in Sources */,
+				C2E985FB1DDEF06300BE3DA5 /* dog.m in Sources */,
 				C2E985C81DDEEDB800BE3DA5 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
